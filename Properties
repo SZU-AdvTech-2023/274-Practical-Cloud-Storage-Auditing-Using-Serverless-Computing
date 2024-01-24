@@ -1,0 +1,12 @@
+secretId = AKIDzud7ShlnXH40sdUOBoMo6DmDVdifUCpH;
+secretKey = MZbUQI2c5ZwQxOj5TlttgLrFPXZO2cEl;
+regionName = ap-guangzhou;
+bucketName = test-1322020954;
+
+AWSRegionName = ap-northeast-1
+AWSBucketName = spin-baby
+key = 569eb18e-a54b-494f-adf1-92ad23a1153a
+AWSSecretId = AKIATD67OKQF3PSKWK5C
+AWSSecretKey= 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
+
+AWSFunctionName = test
